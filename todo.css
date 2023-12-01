@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; 
+    background-image: url(./image/bgw.jpg);
+}
+
+/* Style the form container */
+.container {
+    margin-top: 30px;
+}
+
+/* Style the input and buttons */
+.form-control {
+    width: 100%;
+}
+
+.btn-outline-primary {
+    width: 100%;
+}
+
+/* Style the ToDo list table */
+.table {
+    width: 100%;
+}
+
+/* Style the table cells */
+td {
+    padding: 8px;
+}
+
+/* Style the headings */
+h3 {
+    margin-top: 0;
+}
+
+/* Style the background colors */
+.bg-white {
+    background-color: white;
+}
+
+/* Style the shadow */
+.shadow {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
